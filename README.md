@@ -1,5 +1,6 @@
 # Cohere Hackathon, Team PakDev
-![bae3afb4c2894f848c05b7f07351bd10 (2)](https://user-images.githubusercontent.com/81191657/216103390-12d59dfa-bf52-42f4-9cfa-fd78d0787b7f.png)
+
+![image (8)](https://user-images.githubusercontent.com/81191657/216105205-ecee205d-5dd6-42ba-9b55-84afe495e157.png)
 
 🚀 Presents
 ## JobAdvocate
