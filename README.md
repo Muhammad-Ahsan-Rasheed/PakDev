@@ -1,4 +1,6 @@
 # Cohere Hackathon, Team PakDev
+#Team_Logo
+![bae3afb4c2894f848c05b7f07351bd10 (2)](https://user-images.githubusercontent.com/81191657/216103390-12d59dfa-bf52-42f4-9cfa-fd78d0787b7f.png)
 🚀 Presents
 ## JobAdvocate
 
@@ -44,5 +46,3 @@ AI Assistant to help/support user applying job
 	-	Presentation
 	-	Final Review
 	-	Submit / Final Pitch
-#Team_Logo
-![bae3afb4c2894f848c05b7f07351bd10 (2)](https://user-images.githubusercontent.com/81191657/216103390-12d59dfa-bf52-42f4-9cfa-fd78d0787b7f.png)
