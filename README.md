@@ -3,7 +3,7 @@
 ![image (8)](https://user-images.githubusercontent.com/81191657/216105205-ecee205d-5dd6-42ba-9b55-84afe495e157.png)
 
 🚀 Presents
-## JobAdvocate
+## Project name: JobAdvocate
 
 # Presentation Slides:
 https://docs.google.com/presentation/d/1LgvWQZ3hhZsIxFfZmXYrredQ2sm_kPmt/edit?usp=sharing&ouid=117611085821755169187&rtpof=true&sd=true
