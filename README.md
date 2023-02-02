@@ -5,8 +5,10 @@
 🚀 Presents
 ## JobAdvocate
 
-AI Assistant to help/support user applying job
+#Presentation_Slides:
+https://docs.google.com/presentation/d/1LgvWQZ3hhZsIxFfZmXYrredQ2sm_kPmt/edit?usp=sharing&ouid=117611085821755169187&rtpof=true&sd=true
 
+AI Assistant to help/support user applying job
 ------------
 ## Sub Products:
 
