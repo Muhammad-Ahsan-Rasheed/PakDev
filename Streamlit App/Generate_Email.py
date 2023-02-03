@@ -64,7 +64,7 @@ def generate_email(from_name, to_name, subject, context):
                    f'{from_name}\nTo: {to_name}\nSubject: {subject}\nContext: {context}\nBody:',
             max_tokens=700,
             temperature=0.9,
-            k=165,
+            k=175,
             p=0.25,
             frequency_penalty=0.03,
             presence_penalty=0,
