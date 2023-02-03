@@ -4,7 +4,6 @@ from Generate_Email import generate_email
 st.set_page_config(page_title="Cover Letter", page_icon="✉️")
 
 st.markdown("# Generate Email")
-st.sidebar.header("Email Generator")
 st.write(
     """Want to generate a email? Just fill out the form below and we'll do the rest!"""
 )

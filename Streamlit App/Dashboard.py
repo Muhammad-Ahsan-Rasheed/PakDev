@@ -10,8 +10,6 @@ st.set_page_config(
 
 st.write("# Team PakDev! 👋")
 
-st.sidebar.success("Run Successfully!")
-
 st.markdown(
     """
     Streamlit is an open-source app framework built specifically for
