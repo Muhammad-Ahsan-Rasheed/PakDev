@@ -6,7 +6,7 @@
 ## Project name: JobAdvocate
 
 # Presentation Slides:
-https://docs.google.com/presentation/d/1LgvWQZ3hhZsIxFfZmXYrredQ2sm_kPmt/edit?usp=sharing&ouid=117611085821755169187&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1-1xdxv0dPYLG_GFRaQJnLoJiRIJI-upS/edit?usp=sharing&ouid=117611085821755169187&rtpof=true&sd=true
 
 # Video Submission link: 
 
